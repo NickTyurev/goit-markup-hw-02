@@ -34,13 +34,12 @@ ul li {
         
 }
 
-.nav-item:hover{
+.nav-item:hover
+.nav-item:focus{
     color:#404BBF
 }
 
-.nav-item:focus{
-    color: #404BBF
-}
+
 
 .nav-item:active{
     text-decoration: underline;
