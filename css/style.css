@@ -34,9 +34,11 @@ ul li {
         
 }
 
-.nav-item:hover
+.nav-item:hover{
+color: #404BBF;
+}
 .nav-item:focus{
-    color:#404BBF
+    color:#404BBF;
 }
 
 
@@ -53,7 +55,7 @@ ul li {
 font-style: normal;
 }
 
-.site-adress a{
+.adrs-list{
     font-family: 'Roboto', sans-serif;
     color: #434455;
     text-decoration: none;
@@ -66,7 +68,10 @@ font-style: normal;
 
 
 
-.adress-item a:hover {
+.adrs-list:hover{
+    color: #404BBF;
+}
+.adrs-list:focus {
     color: #404BBF;
 }
 
